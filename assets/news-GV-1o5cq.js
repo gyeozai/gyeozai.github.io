@@ -1,0 +1,1 @@
+const e={news:[{id:1,date:"2025-02",title:"計畫通過，聯盟成立。",tags:["成立"],image1:"/images/news/news_001.jpg",markdownFile:"news_001.md"}]};export{e as n};

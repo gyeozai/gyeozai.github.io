@@ -1,1 +1,0 @@
-const e={news:[{id:1,date:"2025-02",title:"計畫通過，聯盟成立。",tags:["成立"],markdownFile:"news_001.md"},{id:2,date:"2024-03-15",title:"智慧感測技術研討會報名開始",tags:["研討會","技術交流"],markdownFile:"news_002.md",image1:"/images/news/news_001.jpg",image2:"/images/news/news_002.jpg"}]};export{e as n};
