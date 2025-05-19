@@ -1,0 +1,111 @@
+{
+  "intro": "本聯盟於2025年2月成立。由學界教授組成執行團隊推動聯盟的運作，並以會員形式邀請業界夥伴加入，共同組成產學技術聯盟，強化產學之間互動，促進相關技術的發展與應用。",
+  "contact": [
+    {
+      "id": 1,
+      "name": "Michael Peng 彭敬仲",
+      "email": "michael_peng@lsalab.cs.nthu.edu.tw"
+    }
+  ],
+  "academic": [
+    {
+      "id": 1,
+      "name": "林宗宏教授",
+      "title": "計畫主持人",
+      "department": "國立台灣大學醫學工程學系",
+      "research": "奈米生醫材料與穿戴式自驅動生醫感測元件的研究與開發",
+      "website": "https://linzhatnthu.wixsite.com/suerte/",
+      "image": "/images/members/academic/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "鄭雲謙教授",
+      "title": "計畫共同主持人",
+      "department": "國立陽明交通大學機械工程學系",
+      "research": "AI應用於醫學影像分析與智慧感測系統，以及電漿技術在醫療領域的應用",
+      "website": "https://migda.lab.nycu.edu.tw/",
+      "image": "/images/members/academic/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "楊尚樺副教授",
+      "title": "計畫共同主持人",
+      "department": "國立清華大學電機工程學系",
+      "research": "太赫茲技術、光電元件與6G通訊系統，以及深度學習應用於太赫茲斷層掃描",
+      "website": "https://www.ee.nthu.edu.tw/shanghua/",
+      "image": "/images/members/academic/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "李濬屹教授",
+      "title": "計畫共同主持人",
+      "department": "國立台灣大學資訊工程學系",
+      "research": "AI及智慧機器人、大型語言模型 (LLM) 的研究與應用",
+      "website": "https://elsalab.ai/",
+      "image": "/images/members/academic/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "黃敬群教授",
+      "title": "計畫共同主持人",
+      "department": "國立陽明交通大學資訊工程學系",
+      "research": "智慧運輸系統、智慧建築、影像處理相關應用、3D行為辨識系統，以及深度學習模型泛化訓練的理論研究",
+      "website": "https://nycu-acm.github.io/ACM_NYCU_website/",
+      "image": "/images/members/academic/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "林哲信特聘教授",
+      "title": "計畫共同主持人",
+      "department": "國立中山大學機械與機電系",
+      "research": "生醫檢測晶片技術的發展、微機電製程技術、微感測器的開發，以及創新生醫光電系統的研製",
+      "website": "http://www2.nsysu.edu.tw/bems",
+      "image": "/images/members/academic/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "蔡佳宏副教授",
+      "title": "計畫共同主持人",
+      "department": "國立陽明交通大學機械工程學系",
+      "research": "DNA電化學阻抗量測晶片及常壓電漿在微流體中的應用",
+      "website": "https://dylantsai.web.nycu.edu.tw/",
+      "image": "/images/members/academic/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "侯詠德副教授",
+      "title": "計畫共同主持人",
+      "department": "國立台灣大學生物機電工程學系",
+      "research": "生物感測與微流體技術",
+      "website": "https://sites.google.com/site/ntubimebiolan/",
+      "image": "/images/members/academic/8.jpg"
+    }
+  ],
+  "industry": [
+    {
+      "id": 1,
+      "name": "國立臺灣大學",
+      "image": "/images/members/industry/ntu.png"
+    },
+    {
+      "id": 2,
+      "name": "國立陽明交通大學",
+      "image": "/images/members/industry/nycu.png"
+    },
+    {
+      "id": 3,
+      "name": "國立清華大學",
+      "image": "/images/members/industry/nthu.png"
+    },
+    {
+      "id": 4,
+      "name": "國立中山大學",
+      "image": "/images/members/industry/nsysu.png"
+    },
+    {
+      "id": 5,
+      "name": "之後將陸續更新",
+      "image": "/images/members/industry/none.png"
+    }
+  ]
+} 
