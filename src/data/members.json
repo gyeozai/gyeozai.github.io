@@ -84,26 +84,6 @@
   "industry": [
     {
       "id": 1,
-      "name": "國立臺灣大學",
-      "image": "/images/members/industry/ntu.png"
-    },
-    {
-      "id": 2,
-      "name": "國立陽明交通大學",
-      "image": "/images/members/industry/nycu.png"
-    },
-    {
-      "id": 3,
-      "name": "國立清華大學",
-      "image": "/images/members/industry/nthu.png"
-    },
-    {
-      "id": 4,
-      "name": "國立中山大學",
-      "image": "/images/members/industry/nsysu.png"
-    },
-    {
-      "id": 5,
       "name": "之後將陸續更新",
       "image": "/images/members/industry/none.png"
     }
